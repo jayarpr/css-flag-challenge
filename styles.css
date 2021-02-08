@@ -26,6 +26,17 @@ body {
     height: 80px;
   }
 
+  .german:hover .top {
+    background-color: red;
+  }
+  .german:hover .mid {
+    background-color: white;
+  }
+  .german:hover .botm {
+    background-color: green;
+  }
+
+
   .french {
     margin-top: 40px;
     /* display:grid;
@@ -55,8 +66,6 @@ body {
     display: inline-block;
   }
 
-  .german:hover {
-      background-color: white;
-  }
+
 
 
