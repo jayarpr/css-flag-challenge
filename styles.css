@@ -1,0 +1,59 @@
+body {
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 5%;
+    background-color: pink;
+}
+
+.german {
+    width:320px;
+}
+.top {
+    background-color: black;
+    width: 320px;
+    height: 80px;
+  }
+  
+  .mid {
+    background-color: red;
+    width: 320px;
+    height: 80px;
+  }
+  
+  .botm {
+    background-color: yellow;
+    width: 320px;
+    height: 80px;
+  }
+
+  .french {
+    margin-top: 40px;
+    display:grid;
+    column-gap: 0cm;
+    grid-template-columns: 33% 33% 33%;
+    width:320px;
+  }
+
+  .first {
+    background-color: blue;
+    width: 80px;
+    height: 320px;
+  }
+  
+  .second {
+    background-color: white;
+    width: 80px;
+    height: 320px;
+  }
+  
+  .third {
+    background-color: red;
+    width: 80px;
+    height: 320px;
+  }
+
+  .german:hover {
+      background-color: white;
+  }
+
+
