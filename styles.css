@@ -66,6 +66,14 @@ body {
     display: inline-block;
   }
 
-
+  .french:hover .first {
+    background-color: green;
+  }
+  .french:hover .second {
+    background-color: white;
+  }
+  .french:hover .third {
+    background-color: orange;
+  }
 
 
