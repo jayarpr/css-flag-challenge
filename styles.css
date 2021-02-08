@@ -28,28 +28,31 @@ body {
 
   .french {
     margin-top: 40px;
-    display:grid;
+    /* display:grid;
     column-gap: 0cm;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 33% 33% 33%; */
     width:320px;
   }
 
   .first {
     background-color: blue;
-    width: 80px;
+    width: 100px;
     height: 320px;
+    display: inline-block;
   }
   
   .second {
     background-color: white;
-    width: 80px;
+    width: 100px;
     height: 320px;
+    display: inline-block;
   }
   
   .third {
     background-color: red;
-    width: 80px;
+    width: 100px;
     height: 320px;
+    display: inline-block;
   }
 
   .german:hover {
